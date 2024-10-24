@@ -1,0 +1,22 @@
+nav {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+ul{
+    display: flex;
+    color: white;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 0 10px;
+    padding: 10px;
+}
+
+.active-link {
+    color: yellow;
+  
+}
